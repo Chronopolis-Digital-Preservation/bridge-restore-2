@@ -1,5 +1,7 @@
 # bridge-restore-2
 
+run as user tomcat on the duracloud bridge
+
 chkrestore.sh - main script, calls others
 
 duraverify.sh - verifies chronopolis preservation content again duracloud content-properties.json
