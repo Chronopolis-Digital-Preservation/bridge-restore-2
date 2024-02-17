@@ -4,7 +4,7 @@ run as user tomcat on the duracloud bridge
 
 chkrestore.sh - main script, calls others
 
-duraverify.sh - verifies chronopolis preservation content again duracloud content-properties.json
+duraverify.sh - verifies chronopolis preservation content against duracloud content-properties.json
 
 link.sh - creates symlinks in restoration directory to content in chronopolis preservation
 
